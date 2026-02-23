@@ -24,6 +24,7 @@ Use cases:
 ## 📊 Research & Analysis
 
 AI helps creators:
+- [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
 - Summarize whitepapers
 - Analyze market trends
 - Track on-chain narratives
